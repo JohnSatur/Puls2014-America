@@ -7,7 +7,7 @@ Hosting barato normal --> /public_html/ <-- FTP
 + index.php
 + images
 + leonidas.jpg
-+www.web.com
++www.dogecoin.com
 
 SISTEMA DE CONTROL DE VERSIONES
 
